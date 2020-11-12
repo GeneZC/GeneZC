@@ -4,7 +4,7 @@
 
 📫 Contact me via gene_zhangchen#163.com (replace # with @).
 
-#### Recent Activities
+### Recent Activities
 
 * Sep. 14th, 2020. One long paper got accepted to Findings of [EMNLP 2020](https://2020.emnlp.org/papers).
 * Nov. 3rd -- 7th, 2019. Attended EMNLP 2019 in Hong Kong and gave an oral presentation of our work.
