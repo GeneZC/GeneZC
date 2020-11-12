@@ -1,6 +1,3 @@
-<!--
-**GeneZC/GeneZC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About [Me](https://genezc.github.io)
 
 🌱 I am currently a Master student majoring in Computer Science. My advisor is Prof. [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). I also enjoy in working with Dr. [Qiuchi Li](https://qiuchili.github.io) and Dr. [Benyou Wang](https://wabyking.github.io/old).
