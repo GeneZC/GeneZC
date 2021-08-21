@@ -1,7 +1,5 @@
 ### About [Me](https://genezc.github.io)
 
-🌱 I am currently a Master student majoring in Computer Science.
-
 📫 Contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Education
