@@ -2,7 +2,7 @@
 
 🌱 I am currently a Master student majoring in Computer Science.
 
-📫 Contact me via czhang#bit.edu.cn (replace # with @).
+📫 Contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Education
 
