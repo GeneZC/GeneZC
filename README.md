@@ -14,6 +14,7 @@
 
 ### Recent Activities
 
+* Nov. 29th, 2021. Glad to join the Elite Ph.D. Program at BIT.
 * July 30th, 2021. One paper got accepted to [NLPCC 2021](http://tcci.ccf.org.cn/conference/2021/).
 * May 5th, 2021. One short paper got accepted to Findings of [ACL 2021](https://2021.aclweb.org/).
 * Jan. 20th, 2021. Awarded with XIAOMI scholarship.
