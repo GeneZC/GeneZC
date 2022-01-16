@@ -10,7 +10,7 @@
 
 ### Research Interests
 
-🔭 My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) lightweight and indexable pre-trained language models, and 3) generalization/robustness. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
+🔭 My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) generalization and accelaration of pre-trained language models. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
 
 ### Recent Activities
 
