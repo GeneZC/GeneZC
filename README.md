@@ -10,12 +10,4 @@
 
 ### Research Interests
 
-🔭 My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) generalization and accelaration of pre-trained language models. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
-
-### Recent Activities
-
-* Nov. 29th, 2021. Glad to join the Elite Ph.D. Program at BIT.
-* July 30th, 2021. One paper got accepted to [NLPCC 2021](http://tcci.ccf.org.cn/conference/2021/).
-* May 5th, 2021. One short paper got accepted to Findings of [ACL 2021](https://2021.aclweb.org/).
-* Jan. 20th, 2021. Awarded with XIAOMI scholarship.
-* Sep. 14th, 2020. One long paper got accepted to Findings of [EMNLP 2020](https://2020.emnlp.org/papers).
+🔭 My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) generalization and accelaration of pretrained language models. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
