@@ -4,5 +4,5 @@ I am currently a Ph.D. student at Beijing Institute of Technology. My current re
 
 📫 Contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
-
+![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeneZC&show_icons=true&theme=dracula)
 
