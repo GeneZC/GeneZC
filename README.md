@@ -1,6 +1,6 @@
 ### About [Me](https://genezc.github.io)
 
-I am currently a Ph.D. student at Beijing Institute of Technology. My current research interests lie in the general area of natural language processing, particularly opinion mining, retrieval, and language models.
+I am currently a Ph.D. student at Beijing Institute of Technology. My current research interests lie in the general area of natural language processing, particularly efficient language models and language agents.
 
 📫 Contact me via chenzhang9702[AT]outlook[DOT]com.
 
